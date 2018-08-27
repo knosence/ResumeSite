@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl":"https://techonoeticsclub.github.io/",
+  "imagebaseurl":"",
   "name": "NaDario M. Seays",
   "role": "Full Stack Java Developer and Baltimore Ravens Fan",
   "emailid": " nadario.seays@gmail.com",
@@ -33,7 +33,6 @@ let resumeData = {
     ],
   "aboutme":"I am an enthusiastic Full Stack Developer with a love for all that is tech and a hunger for learning. I am currently focusing on Java, Javascript, MySQL and is willing and eager to step out and learn other languages when needed. I have a BS in Information Technology specializing in Software Development and Analysis. I live by the motto \"adapt to overcome,\" meaning I thrive under pressure and is capable of learning under fire. I am always looking to improve my crafts by learning from others and give advice to those who crave when I can. ",
   "address":" 5523 Wellborn Creek Drive, Lithonia Ga 30058",
-  // "website":"http://technoetics.in",
   "education":[
     {
       "UniversityName":"American InterContinental University",
